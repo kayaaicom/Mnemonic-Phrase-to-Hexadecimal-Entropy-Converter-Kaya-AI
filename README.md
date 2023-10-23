@@ -40,3 +40,5 @@ Kaya AI is dedicated to simplifying complex processes and making the world of ar
 Please use this tool responsibly. Always remember to keep your mnemonic phrases and private keys secure.
 
 Kaya AI is not responsible for any lost or stolen funds. Always triple-check your information and use hardware wallets for the best security.
+
+All tools and information contained herein are presented or made available for the sole purpose of securing legal remedies. I do not undertake any illegal action on your part. FOR PURELY EDUCATIONAL PURPOSES.
