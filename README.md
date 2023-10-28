@@ -1,6 +1,6 @@
 # Mnemonic Phrase to Hexadecimal Entropy Converter - Kaya AI
 
-## Instagram: @kayaaicom - Github: @kayaaicom
+## Github: @kayaaicom
 <br>
 <a href="https://www.buymeacoffee.com/kayaaicom"> <img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" width="150"></a>
 
